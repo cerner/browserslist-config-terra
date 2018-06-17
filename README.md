@@ -16,7 +16,7 @@ This configuration reflects Terra's supported browser policy for their UI librar
 
 [Browserslist](https://github.com/ai/browserslist) is a library to share a browsers list between different front-end tools, like Autoprefixer, Eslint, and Stylelint.
 
-* Valid Browserslist query syntax validation[browserl.ist](http://browserl.ist)
+* Valid Browserslist query syntax validation [browserl.ist](http://browserl.ist)
 * ["Browserslist is a Good Idea"](https://css-tricks.com/browserlist-good-idea/) (blog post by [@chriscoyier](https://github.com/chriscoyier))
 
 ## Supported Browsers
@@ -34,7 +34,7 @@ This configuration reflects Terra's supported browser policy for their UI librar
 Install the module
 
 ```shell
-$ npm install browserslist-config-terra
+$ npm install browserslist-config-terra --save-dev
 ```
 
 

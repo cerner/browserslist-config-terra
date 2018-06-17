@@ -7,7 +7,7 @@ const modifiedChangelog = danger.git.modified_files.filter((filePath) => {
 });
 
 const modifiedConfigFiles = danger.git.modified_files.filter((filePath) => {
-  const scriptFilePattern = /index.js/i;
+  const scriptFilePattern = /browserslist.config.js/i;
   return scriptFilePattern.test(filePath);
 });
 
