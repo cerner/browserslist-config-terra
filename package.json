@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-terra",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Terra Browserslist Shared Config",
   "main": "browserslist.config.js",
   "repository": {
