@@ -8,7 +8,12 @@
   Terra Browserslist Shared Config
 </h1>
 
-[![NPM version](http://img.shields.io/npm/v/browserlist-config-terra.svg)](https://www.npmjs.org/package/browserslist-config-terra)
+[![NPM version](https://badgen.net/npm/v/browserslist-config-terra)](https://www.npmjs.org/package/browserslist-config-terra)
+[![License](https://badgen.net/github/license/cerner/browserslist-config-terra)](https://github.com/cerner/browserslist-config-terra/blob/master/LICENSE)
+[![Build Status](https://badgen.net/travis/cerner/browserslist-config-terra)](https://travis-ci.org/cerner/browserslist-config-terra)
+[![Dependencies status](https://badgen.net/david/dep/cerner/browserslist-config-terra)](https://david-dm.org/cerner/browserslist-config-terra)
+[![devDependencies status](https://badgen.net/david/dev/cerner/browserslist-config-terra)](https://david-dm.org/cerner/browserslist-config-terra?type=dev)
+
 
 This configuration reflects Terra's supported browser policy for their UI library and build tools.
 
