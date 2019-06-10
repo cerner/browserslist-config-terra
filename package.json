@@ -28,7 +28,6 @@
   "scripts": {
     "clean": "rimraf node_modules",
     "clean:install": "npm run clean && npm install",
-    "danger": "danger ci",
     "lint": "eslint --ext .js,.jsx .",
     "postpublish": "git push --tag",
     "prepublishOnly": "npm whoami && npm run lint",
@@ -37,7 +36,6 @@
     "release:patch": "npm version patch -m 'Released version %s' && npm publish"
   },
   "devDependencies": {
-    "danger": "^3.7.14",
     "eslint": "^5.0.0",
     "eslint-config-terra": "^2.0.0",
     "rimraf": "^2.6.1"
