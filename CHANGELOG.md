@@ -5,7 +5,6 @@ Unreleased
 -----------------
 ### Changed
 * Updated ESLint to v6
-* Updated lower bound of iOS from 10 to 11
 
 ### Removed
 * Removed rimraf devDependency
