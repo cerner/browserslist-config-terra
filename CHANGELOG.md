@@ -3,11 +3,17 @@ ChangeLog
 
 Unreleased
 -----------------
+
+1.3.0 - (October 30, 2019)
+------------------
 ### Changed
 * Updated ESLint to v6
 
 ### Removed
 * Removed rimraf devDependency
+
+### Added
+* Docker dev environment
 
 1.2.0 - (March 12, 2019)
 ------------------
