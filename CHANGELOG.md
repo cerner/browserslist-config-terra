@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 -----------------
+
+2.0.0 - (January 28, 2019)
+------------------
 ### Breaking
 * Update iOS lower bound from iOS 10 to iOS 12
 
