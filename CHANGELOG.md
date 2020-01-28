@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 -----------------
+### Breaking
+* Update iOS lower bound from iOS 10 to iOS 12
+
 ### Changed
 * Update copyright to include 2020
 

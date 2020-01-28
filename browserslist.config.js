@@ -1,5 +1,5 @@
 module.exports = [
-  'iOS >= 10',
+  'iOS >= 12',
   'last 2 and_chr versions',
   'last 2 android versions',
   'last 2 chrome versions',
